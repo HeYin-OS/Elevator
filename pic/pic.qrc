@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>green.png</file>
+        <file>red.png</file>
+        <file>dilg_icon.png</file>
+        <file>main_icon.png</file>
+        <file>main_icon.ico</file>
+        <file>rand_emg_1.png</file>
+        <file>rand_emg_2.png</file>
+        <file>rand_emg_3.png</file>
+        <file>rand_emg_4.png</file>
+        <file>github.png</file>
+        <file>my_github_icon.png</file>
+        <file>information_icon.ico</file>
+        <file>line.png</file>
+        <file>vline.png</file>
+    </qresource>
+</RCC>
